@@ -1,0 +1,9 @@
+1> Making a rock papper scissors shoot game .We will be using :-
+a.getElementById()
+b.querySelectorAll()
+c.forEach()
+d.addEventListener()
+e.innerHTML()
+f.e.target.id
+g.Math.floor()
+h.Math.random()
